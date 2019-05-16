@@ -1,0 +1,14 @@
+msgid ""
+msgstr ""
+
+msgctxt "#32000"
+msgid "Example"
+msgstr ""
+
+msgctxt "#32001"
+msgid "Debug"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Map /config"
+msgstr ""
