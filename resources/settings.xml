@@ -3,4 +3,5 @@
  <category label="30000">
  <setting label="30001" type="bool" id="debug" default="false"/>
  <setting label="30002" type="folder" id="V_config" default="/storage/.kodi/userdata/addon_data/docker.linuxserver.dwagent" option="writeable" />
+ </category>
 </settings>
