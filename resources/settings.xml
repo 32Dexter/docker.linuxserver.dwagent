@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
  <category label="30000">
- <setting label="32001" type="bool" id="debug" default="false"/>
- <setting label="30006" type="folder" id="V_config" default="/storage/.kodi/userdata/addon_data/docker.linuxserver.dwagent" option="writeable" />
+ <setting label="30001" type="bool" id="debug" default="false"/>
+ <setting label="30002" type="folder" id="V_config" default="/storage/.kodi/userdata/addon_data/docker.linuxserver.dwagent" option="writeable" />
 </settings>
