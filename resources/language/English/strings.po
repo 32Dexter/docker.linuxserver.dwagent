@@ -12,3 +12,7 @@ msgstr ""
 msgctxt "#30002"
 msgid "Map /data"
 msgstr ""
+
+msgctxt "#30003"
+msgid "Codice DwAgent generato"
+msgstr ""
