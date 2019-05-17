@@ -1,14 +1,14 @@
 msgid ""
 msgstr ""
 
-msgctxt "#32000"
-msgid "Example"
+msgctxt "#30000"
+msgid "Configuration"
 msgstr ""
 
-msgctxt "#32001"
+msgctxt "#30001"
 msgid "Debug"
 msgstr ""
 
-msgctxt "#30006"
-msgid "Map /config"
+msgctxt "#30002"
+msgid "Map /data"
 msgstr ""
