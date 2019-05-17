@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 import subprocess
 import xbmc
 import xbmcaddon
@@ -14,4 +14,3 @@ class Monitor(xbmc.Monitor):
 
 if __name__ == '__main__':
    Monitor().waitForAbort()
-
