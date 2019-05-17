@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="docker.linuxserver.dwagent"
-	   name="Dwagent Serice"
-	   version="0.0.1"
-	   provider-name="Napster32">
-    <requires>
-		<import addon="os.libreelec.tv" version="7.0"/>
-        <import addon="xbmc.python" version="2.1.0"/>
-		<import addon="service.system.docker" version="0.0.0" />
-		<import addon="docker.linuxserver.updater" version="0.0.0"/>
-    </requires>
-    <extension point="xbmc.service" library="default.py"/>
-		<provides></provides>
-	</extension>
-    <extension point="xbmc.addon.metadata">
-        <summary>Install Dwagent for remote Connection</summary>
-        <description></description>
-		<disclaimer></disclaimer>
-		<news></news>
-        <platform>all</platform>
-        <website></website>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
+       name="Dwagent Serice"
+       version="0.0.1"
+       provider-name="Napster32">
+  <requires>
+    <import addon="os.libreelec.tv" version="7.0"/>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="service.system.docker" version="0.0.0" />
+    <import addon="docker.linuxserver.updater" version="0.0.0"/>
+  </requires>
+  <extension point="xbmc.service" library="default.py"/>
+    <provides></provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Install Dwagent for remote Connection</summary>
+    <description></description>
+    <disclaimer></disclaimer>
+    <news></news>
+    <platform>all</platform>
+    <website></website>
+    <assets>
+       <icon>icon.png</icon>
+       <fanart>fanart.jpg</fanart>
+    </assets>
     </extension>
 </addon>
